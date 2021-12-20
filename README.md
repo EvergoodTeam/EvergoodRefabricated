@@ -3,14 +3,14 @@
 # Evergood Reforged <a href=https://www.curseforge.com/minecraft/modpacks/evergoodrefabricated> <img src="http://cf.way2muchnoise.eu/554271.svg"> </a>
 Evergood, but Farbic!
 
-You can find more information about it and the Stable Versions only on [Curseforge](https://www.curseforge.com/minecraft/modpacks/evergoodrefabricated) and the [Wiki](https://evergoodteam.github.io/modpacks/evergoodrefabricated)
+Here on [GitHub](https://github.com/EvergoodTeam/EvergoodRefabricated/releases) you can find the dev Versions and Server Packs
+
+You can find more information about it on our [Wiki](https://evergoodteam.github.io/modpacks/evergoodrefabricated) and stable versions only on [Curseforge](https://www.curseforge.com/minecraft/modpacks/evergoodrefabricated)
 
 In case you find a reposted version on another site, please report it to us
 
-You can find the dev Versions and dev Serverpacks here on [GitHub](https://github.com/EvergoodTeam/EvergoodRefabricated/releases)
-
 ## Support us!
-Want to support us? Make sure to use code "Libra" when renting a server over at [BisectHosting!](https://www.bisecthosting.com/Libra)
+Want to support us? Make sure to use **code "Libra"** for **25% OFF** when renting a server over at [BisectHosting!](https://www.bisecthosting.com/Libra)
 
 ## Discord
 Join us on [Discord](https://discord.gg/k2P68Y8) for support and updates on upcoming versions
