@@ -22,5 +22,5 @@ If you encounter any issue during your playthrough, either with the Modpack itse
 
 ***
 
-#### Every Evergood logo, image, screenshot and any other asset used in the Modpack, Modpack Page and other Outlets were created by the Curseforge Project Owner, [EccentricLibra1](https://www.curseforge.com/members/eccentriclibra1)
+#### Every Evergood logo, image, screenshot and any other asset used in the Modpack, Modpack Page and other Outlets were created by the Curseforge Project Owner
 #### You **DO NOT** have permission to use them unless permission is granted by the Project Owner
